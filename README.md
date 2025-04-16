@@ -14,7 +14,7 @@ Head Engineer | PhD Research Fellow | MSc EIT | BEng (hons) EEE | Nano-electroni
 
 ## 📫 How to Reach Me
 
-- **Email**: emoninet2@example.com
+- **Email**: emon@emon.no
 - **LinkedIn**: [emoninet2](https://www.linkedin.com/in/emoninet2)
 - **Twitter**: [emoninet2](https://twitter.com/emoninet2)
 
